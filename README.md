@@ -8,6 +8,10 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 
 ## 🌟 About Me
 
+**2024 KAIST CS President 🖥️**
+**SPARCS Designer 🖌️**
+**OINS FE Developer ✈️**
+
 - 🎓 KAIST에서 디자인과 기술을 연결하는 다양한 프로젝트 진행
 - 🧠 인간-컴퓨터 상호작용(HCI), 감정 기반 UI, 게임화(Gamification)에 관심
 - 💻 React & TypeScript를 활용한 프론트엔드 구현
@@ -26,10 +30,10 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 
 | 프로젝트 | 소개 | 링크 |
 |----------|------|------|
-| **stl.siwon.site** | AI 기반 시간표 생성 플랫폼 (STL) | [🔗 바로가기](https://stl.siwon.site) |
-| **miruni** | 정부 지원 기반 히키코모리 갱생 프로젝트 | [🔗 바로가기](https://miruni.netlify.app) |
-| **dab4u.oinstech.com** | 디지털 시험지 채점 플랫폼 (DAB for U) | [🔗 바로가기](https://dab4u.oinstech.com) |
-| **oinstech.com** | OINS CCO로 활동 중 | [🔗 바로가기](https://oinstech.com) |
+| **STL** | AI 기반 시간표 생성 플랫폼 (STL) | [🔗 바로가기](https://stl.siwon.site) |
+| **MIRU** | 정부 지원 기반 히키코모리 갱생 프로젝트 | [🔗 바로가기](https://miruni.netlify.app) |
+| **OINS** | AI EduTech Company - OINS : CCO로 활동 중 | [🔗 바로가기](https://oinstech.com) |
+| **dab4u** | 디지털 시험지 채점 플랫폼 (DAB for U) | [🔗 바로가기](https://dab4u.oinstech.com) |
 | **hunter-kaist** | KAIST 전용 장터 게시판 | [🔗 바로가기](https://hunter-kaist.netlify.app) |
 | **dab4n** | 학원 전용 시험지 채점 플랫폼 (DAB for studeNt) | [🔗 바로가기](https://dab4n.netlify.app) |
 | **dabanmaker** | 시험 문제 자동 생성기 + 편집기 | [🔗 바로가기](https://dabanmaker.netlify.app) |
