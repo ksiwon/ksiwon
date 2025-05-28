@@ -34,11 +34,11 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 |----------|------|------|
 | **STL** | AI 기반 시간표 생성 플랫폼 (STL) | [🔗 바로가기](https://stl.siwon.site) |
 | **MIRU** | 정부 지원 기반 히키코모리 갱생 프로젝트 | [🔗 바로가기](https://miruni.netlify.app) |
-| **OINS** | AI EduTech Company - OINS : CCO로 활동 중 | [🔗 바로가기](https://oinstech.com) |
+| **OINS** | AI EduTech Company - OINS | [🔗 바로가기](https://oinstech.com) |
 | **dab4u** | 디지털 시험지 채점 플랫폼 (DAB for U) | [🔗 바로가기](https://dab4u.oinstech.com) |
-| **hunter-kaist** | KAIST 전용 장터 게시판 | [🔗 바로가기](https://hunter-kaist.netlify.app) |
 | **dab4n** | 학원 전용 시험지 채점 플랫폼 (DAB for studeNt) | [🔗 바로가기](https://dab4n.netlify.app) |
 | **dabanmaker** | 시험 문제 자동 생성기 + 편집기 | [🔗 바로가기](https://dabanmaker.netlify.app) |
+| **hunter-kaist** | KAIST 전용 장터 게시판 | [🔗 바로가기](https://hunter-kaist.netlify.app) |
 | **kira7** | KAIST ID Reservation Assistant | [🔗 바로가기](https://kira7.netlify.app) |
 | **jjolab** | KAIST 개별연구 + 랩인턴 컨택 플랫폼 | [🔗 바로가기](https://jjolab.netlify.app) |
 
