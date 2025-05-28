@@ -46,7 +46,8 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 
 ## 🤝 Let's Connect
 
-- Email: `pjo12346@kaist.ac.kr`  
+- Email: `pjo12346@kaist.ac.kr`
+- Email: `siwon@sparcs.org`  
 
 ---
 
