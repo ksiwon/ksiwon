@@ -37,9 +37,9 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 | **OINS** | AI EduTech Company - OINS | [🔗 바로가기](https://oinstech.com) |
 | **dab4u** | 디지털 시험지 채점 플랫폼 (DAB for U) | [🔗 바로가기](https://dab4u.oinstech.com) |
 | **dab4n** | 학원 전용 시험지 채점 플랫폼 (DAB for studeNt) | [🔗 바로가기](https://dab4n.netlify.app) |
-| **dabanmaker** | 시험 문제 자동 생성기 + 편집기 | [🔗 바로가기](https://dabanmaker.netlify.app) |
-| **hunter-kaist** | KAIST 전용 장터 게시판 | [🔗 바로가기](https://hunter-kaist.netlify.app) |
-| **kira7** | KAIST ID Reservation Assistant | [🔗 바로가기](https://kira7.netlify.app) |
+| **D-Maker** | 시험 문제 자동 생성기 + 편집기 | [🔗 바로가기](https://dabanmaker.netlify.app) |
+| **Hunter** | KAIST 전용 장터 게시판 | [🔗 바로가기](https://hunter-kaist.netlify.app) |
+| **KIRA** | KAIST ID Reservation Assistant | [🔗 바로가기](https://kira7.netlify.app) |
 | **jjolab** | KAIST 개별연구 + 랩인턴 컨택 플랫폼 | [🔗 바로가기](https://jjolab.netlify.app) |
 
 ---
