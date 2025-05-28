@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Siwon (J.Park)</h1>
+<h1 align="center">👋 Hi, I'm Siwon (Jungwon Park)</h1>
 <p align="center">
 UX를 사랑하는 프론트엔드 개발자,  
 AI와 인터랙션 디자인을 실험하는 디자이너.
