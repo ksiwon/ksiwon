@@ -33,7 +33,8 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 | 프로젝트 | 소개 | 링크 |
 |----------|------|------|
 | **STL** | AI 기반 시간표 생성 플랫폼 (STL) | [🔗 바로가기](https://stl.siwon.site) |
-| **MIRU** | 정부 지원 기반 히키코모리 갱생 프로젝트 | [🔗 바로가기](https://miruni.netlify.app) |
+| **MIRU-Q** | 정부 지원 기반 히키코모리 갱생 프로젝트 - Quest App | [🔗 바로가기](https://miru-aura.netlify.app) |
+| **MIRU-I** | 정부 지원 기반 히키코모리 갱생 프로젝트 - Interview | [🔗 바로가기](https://miruni.netlify.app) |
 | **OINS** | AI EduTech Company - OINS | [🔗 바로가기](https://oinstech.com) |
 | **dab4u** | 디지털 시험지 채점 플랫폼 (DAB for U) | [🔗 바로가기](https://dab4u.oinstech.com) |
 | **dab4n** | 학원 전용 시험지 채점 플랫폼 (DAB for studeNt) | [🔗 바로가기](https://dab4n.netlify.app) |
