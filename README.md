@@ -32,6 +32,7 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 
 | 프로젝트 | 소개 | 링크 |
 |----------|------|------|
+| **SFAI** | Surgery consent Form 플랫폼 (w. 아산병원) | [🔗 바로가기](https://sfai.siwon.site) |
 | **STL** | AI 기반 시간표 생성 플랫폼 (STL) | [🔗 바로가기](https://stl.siwon.site) |
 | **MIRU-Q** | 정부 지원 기반 히키코모리 갱생 프로젝트 - Quest App | [🔗 바로가기](https://miru-aura.netlify.app) |
 | **MIRU-I** | 정부 지원 기반 히키코모리 갱생 프로젝트 - Interview | [🔗 바로가기](https://miruni.netlify.app) |
