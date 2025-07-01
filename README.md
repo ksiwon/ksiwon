@@ -38,8 +38,9 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 | **MIRU-Q** | 정부 지원 기반 히키코모리 갱생 프로젝트 - Quest App | [🔗 바로가기](https://miru-aura.netlify.app) |
 | **MIRU-I** | 정부 지원 기반 히키코모리 갱생 프로젝트 - Interview | [🔗 바로가기](https://miruni.netlify.app) |
 | **OINS** | AI EduTech Company - OINS | [🔗 바로가기](https://oinstech.com) |
-| **dab4u** | 디지털 시험지 채점 플랫폼 (DAB for U) | [🔗 바로가기](https://dab4u.oinstech.com) |
-| **dab4n** | 학원 전용 시험지 채점 플랫폼 (DAB for studeNt) | [🔗 바로가기](https://dab4n.netlify.app) |
+| **dab4n** | 디지털 시험지 채점 플랫폼 (DAB for aNswer) | [🔗 바로가기](https://dab4n.oinstech.com) |
+| **dab4u** | 대학 구술 시험/면접 플랫폼 (DAB for University) | [🔗 바로가기](https://dab4u.oinstech.com) |
+| **dab4s** | 학원 전용 시험지 채점 플랫폼 (DAB for Student) | [🔗 바로가기](https://dab4s.netlify.app) |
 | **D-Maker** | 시험 문제 자동 생성기 + 편집기 | [🔗 바로가기](https://dabanmaker.netlify.app) |
 | **Hunter** | KAIST 전용 장터 게시판 | [🔗 바로가기](https://hunter-kaist.netlify.app) |
 | **KIRA** | KAIST ID Reservation Assistant | [🔗 바로가기](https://kira7.netlify.app) |
