@@ -14,6 +14,8 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 
 **OINS FE Developer ✈️**
 
+**KAIST AI Experience Lab Intern 🏫**
+
 
 - 🎓 KAIST에서 디자인과 기술을 연결하는 다양한 프로젝트 진행
 - 🧠 인간-컴퓨터 상호작용(HCI), AI Design에 관심
