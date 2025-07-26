@@ -21,6 +21,7 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 - 🧠 인간-컴퓨터 상호작용(HCI), AI Design에 관심
 - 💻 React & TypeScript를 활용한 프론트엔드 구현
 - 🧪 Generative AI와 인터랙션이 결합된 서비스 기획/설계
+- 🩺 Voice Interaction for Medical Consultation
 
 ---
 
