@@ -10,7 +10,7 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 
 **2024 KAIST CS President 🖥️**
 
-**SPARCS Designer 🖌️**
+**SPARCS FE Developer & Designer 🖌️**
 
 **OINS FE Developer ✈️**
 
