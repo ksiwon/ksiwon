@@ -33,10 +33,14 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 
 ## 🧪 Selected Projects
 
-| 프로젝트 | 소개 | 링크 |
+| AEL | 소개 | 링크 |
 |----------|------|------|
 | **Osler** | Surgery Consent Support Agent (w. 아산병원) | [🔗 바로가기](https://osler.siwon.site) |
 | **Freud-Jr** | 정신과 초진 도우미 플랫폼 (w. 연세 세브란스) | [🔗 바로가기](https://freud-jr.siwon.site) |
+| **MediCall** | AI 의료 관광 플랫폼 (at. SWITCH SG) | [🔗 바로가기](https://medicall.siwon.site) |
+
+| Own Project | 소개 | 링크 |
+|----------|------|------|
 | **STL** | AI 기반 시간표 생성 플랫폼 (STL) | [🔗 바로가기](https://stl.siwon.site) |
 | **MissVoice** | 녹음 기반 AI Voice Generator | [🔗 바로가기](https://missvoice.siwon.site) |
 | **MIRU-Q** | 정부 지원 기반 히키코모리 갱생 프로젝트 - Quest App | [🔗 바로가기](https://miru-aura.netlify.app) |
