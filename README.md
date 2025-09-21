@@ -12,8 +12,6 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 
 **SPARCS FE Developer & Designer 🖌️**
 
-**OINS FE Developer ✈️**
-
 **KAIST AI Experience Lab Intern 🏫**
 
 
