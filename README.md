@@ -47,11 +47,10 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 | **KIRA** | KAIST ID Reservation Assistant | [🔗 바로가기](https://kira7.netlify.app) |
 | **jjolab** | KAIST 개별연구 + 랩인턴 컨택 플랫폼 | [🔗 바로가기](https://jjolab.netlify.app) |
 
-| Team OINS | 소개 | 링크 |
+| Team Project | 소개 | 링크 |
 |------------|------|------|
-| **OINS** | AI EduTech Company - OINS | [🔗 바로가기](https://oinstech.com) |
 | **DAB4N** | 디지털 시험지 채점 플랫폼 (DAB for aNswer) | [🔗 바로가기](https://dab4n.oinstech.com) |
-| **Socra** | 대학 구술 시험/면접 플랫폼 | [🔗 바로가기](https://socra.oinstech.com) |
+| **SOCRA** | 창의적 인지 역량 문제 생성 플랫폼 | [🔗 바로가기](https://socra.oinstech.com) |
 | **DAB4S** | 학원 전용 시험지 채점 플랫폼 (DAB for Student) | [🔗 바로가기](https://dab4s.netlify.app) |
 | **D-Maker** | 시험 문제 자동 생성기 + 편집기 | [🔗 바로가기](https://dabanmaker.netlify.app) |
 
