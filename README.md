@@ -50,7 +50,7 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 | Team Project | 소개 | 링크 |
 |------------|------|------|
 | **DAB4N** | 디지털 시험지 채점 플랫폼 (DAB for aNswer) | [🔗 바로가기](https://dab4n.oinstech.com) |
-| **SOCRA** | 창의적 인지 역량 문제 생성 플랫폼 | [🔗 바로가기](https://socra.oinstech.com) |
+| **SOCRA** | 창의적 인지 역량 문제 생성 플랫폼 | [🔗 바로가기](https://socra.netlify.app) |
 | **DAB4S** | 학원 전용 시험지 채점 플랫폼 (DAB for Student) | [🔗 바로가기](https://dab4s.netlify.app) |
 | **D-Maker** | 시험 문제 자동 생성기 + 편집기 | [🔗 바로가기](https://dabanmaker.netlify.app) |
 
