@@ -43,6 +43,7 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 | **MissVoice** | 녹음 기반 AI Voice Generator | [🔗 바로가기](https://missvoice.siwon.site) |
 | **MIRU-Q** | 정부 지원 기반 히키코모리 갱생 프로젝트 - Quest App | [🔗 바로가기](https://miru-aura.netlify.app) |
 | **MIRU-I** | 정부 지원 기반 히키코모리 갱생 프로젝트 - Interview | [🔗 바로가기](https://miruni.netlify.app) |
+| **I'm KBO Scouter!** | 답답해서 만드는 데이터 기반 KBO 외인 타자 스카우터 | [🔗 바로가기](https://im-kbo-scouter.siwon.site) |
 | **Hunter** | KAIST 전용 장터 게시판 | [🔗 바로가기](https://hunter-kaist.netlify.app) |
 | **KIRA** | KAIST ID Reservation Assistant | [🔗 바로가기](https://kira7.netlify.app) |
 | **jjolab** | KAIST 개별연구 + 랩인턴 컨택 플랫폼 | [🔗 바로가기](https://jjolab.netlify.app) |
