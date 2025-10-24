@@ -47,12 +47,12 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 | **Hunter** | KAIST 전용 장터 게시판 | [🔗 바로가기](https://hunter-kaist.netlify.app) |
 | **KIRA** | KAIST ID Reservation Assistant | [🔗 바로가기](https://kira7.netlify.app) |
 | **jjolab** | KAIST 개별연구 + 랩인턴 컨택 플랫폼 | [🔗 바로가기](https://jjolab.netlify.app) |
-| **ReviewTrust** | 제품/서비스 리뷰 비교 플랫폼 (Startup-101) | [🔗 바로가기](https://reviewtrust.siwon.site) |
+| **ReviewTrust** | 제품/서비스 리뷰 비교 플랫폼 (by. Startup-101) | [🔗 바로가기](https://reviewtrust.siwon.site) |
 
 | Team Project | 소개 | 링크 |
 |------------|------|------|
 | **DAB4N** | 디지털 시험지 채점 플랫폼 (DAB for aNswer) | [🔗 바로가기](https://dab4n.netlify.app) |
-| **SOCRA** | 창의적 인지 역량 문제 생성 플랫폼 | [🔗 바로가기](https://socra.netlify.app) |
+| **SOCRA** | 창의적 인지 역량 문제 생성 플랫폼 (w. Prof 정재승) | [🔗 바로가기](https://socra.netlify.app) |
 | **DAB4S** | 학원 전용 시험지 채점 플랫폼 (DAB for Student) | [🔗 바로가기](https://dab4s.netlify.app) |
 | **D-Maker** | 시험 문제 자동 생성기 + 편집기 | [🔗 바로가기](https://dabanmaker.netlify.app) |
 
