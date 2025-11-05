@@ -40,6 +40,7 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 | Own Project | 소개 | 링크 |
 |----------|------|------|
 | **STL** | AI 기반 시간표 생성 플랫폼 (STL) | [🔗 바로가기](https://stl.siwon.site) |
+| **PokeTD** | Pokemon Tower Defense | [🔗 바로가기](https://pokemon-td.siwon.site) |
 | **MissVoice** | 녹음 기반 AI Voice Generator | [🔗 바로가기](https://missvoice.siwon.site) |
 | **MIRU-Q** | 정부 지원 기반 히키코모리 갱생 프로젝트 - Quest App | [🔗 바로가기](https://miru-aura.netlify.app) |
 | **MIRU-I** | 정부 지원 기반 히키코모리 갱생 프로젝트 - Interview | [🔗 바로가기](https://miruni.netlify.app) |
