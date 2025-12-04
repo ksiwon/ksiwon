@@ -10,9 +10,11 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 
 **2024 KAIST CS President 🖥️**
 
-**SPARCS FE Developer & Designer 🖌️**
+**2026 KAIST ID Vice President 🖌️**
 
-**KAIST AI Experience Lab Intern 🏫**
+**SPARCS FE Developer & Designer ⚡**
+
+**KAIST AI Experience Lab 🏫**
 
 
 - 🎓 KAIST에서 디자인과 기술을 연결하는 다양한 프로젝트 진행
@@ -36,6 +38,7 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 | **Osler** | Surgery Consent Support Agent (w. 아산병원) | [🔗 바로가기](https://osler.siwon.site) |
 | **Freud-Jr** | 정신과 초진 도우미 플랫폼 (w. 연세 세브란스) | [🔗 바로가기](https://freud-jr.siwon.site) |
 | **MediCall** | AI 의료 관광 플랫폼 (at. SWITCH SG) | [🔗 바로가기](https://medicall.siwon.site) |
+| **ChoreoBot** | 안무 창작 Support Chatbot | [🔗 바로가기](https://choreobot.siwon.site) |
 
 | Own Project | 소개 | 링크 |
 |----------|------|------|
