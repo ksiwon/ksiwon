@@ -44,6 +44,7 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 |----------|------|------|
 | **Pokemon Aegis** | Pokemon Tower Defense | [🔗 바로가기](https://pokemon-td.freakit.co.kr) |
 | **VoteX** | 온라인 비밀 투표 플랫폼 | [🔗 바로가기](https://votex.siwon.site) |
+| **Pawmo** | KAIST 졸업 요건 체커 | [🔗 바로가기](https://pawmo.siwon.site) |
 | **STL** | AI 기반 시간표 생성 플랫폼 (STL) | [🔗 바로가기](https://stl.siwon.site) |
 | **MissVoice** | 녹음 기반 AI Voice Generator | [🔗 바로가기](https://missvoice.siwon.site) |
 | **MIRU-Q** | 정부 지원 기반 히키코모리 갱생 프로젝트 - Quest App | [🔗 바로가기](https://miru-aura.netlify.app) |
