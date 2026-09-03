@@ -48,7 +48,7 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 
 ## 📝 Publications
 
-- 📄 **MEDial: A Study on Active Conversational AI for Remote Medical Interviewing of the Elderly** (KAIST URP Program, 2026 Winter/Spring) - *Advisor: Prof. Tak Yeon Lee · 심사 중*
+- 📄 **MEDial: A Study on Active Conversational AI for Remote Medical Interviewing of the Elderly** (KAIST URP Program, 2026 Winter/Spring) - *개별연구 최종보고서 · Advisor: Prof. Tak Yeon Lee*
 - 📄 **Study of Nonlinear Optical Lenz** (KSIC Fall 2020) - *Best Paper Award (우수논문상)*
 
 ---
