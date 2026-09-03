@@ -57,7 +57,7 @@ AI와 인터랙션 디자인을 실험하는 디자이너.
 
 | Game | 소개 | 링크 |
 |----------|------|------|
-| **Pokemon Aegis** | 1025마리가 전부 등장하는 타워 디펜스 — 스토리 모드 · 실시간 PvP · 카드 오토배틀 | [🔗 바로가기](https://pokemon-td.freakit.co.kr) |
+| **Pokemon Aegis** | 1025마리가 전부 등장하는 타워 디펜스 — 스토리 모드 · 실시간 PvP · 카드 오토배틀 | [🔗 바로가기](https://aegis.siwon.it.kr) |
 | **Radiant Platinum** | 포켓몬 플래티넘을 브라우저 3D로 리메이크 (BYOR · 에뮬레이터 아님) | [🔗 바로가기](https://radiant.siwon.it.kr) |
 | **포케리듬 (Pokerhythm)** | DS 시퀀스(SSEQ) 557곡을 그대로 채보로 쓰는 리듬게임 — 소리는 브라우저에서 합성 | [🔗 바로가기](https://pokerhythm.siwon.it.kr) |
 
